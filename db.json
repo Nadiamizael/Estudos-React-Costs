@@ -1,63 +1,15 @@
 {
   "projects": [
     {
-      "name": "Projeto atualizado",
-      "budget": "14002",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 140,
-      "services": [
-        {
-          "name": "ooooo",
-          "cost": "140",
-          "description": "nada aa declarar ",
-          "id": "65524d4c-9f93-473e-9f29-fa6cba432286"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "name": "que saco",
-      "budget": "15000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Site Vans",
-      "budget": "17000",
+      "name": "Projeto Vivo",
+      "budget": "20000",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 10100,
-      "services": [
-        {
-          "name": "Contratar desenvolvedor front-end",
-          "cost": "5000",
-          "description": "landing page",
-          "id": "c84a78b8-714b-41d0-a1ac-9c931dc20055"
-        },
-        {
-          "name": "Contratar desenvolvedor front-end",
-          "cost": "5000",
-          "description": "landing page",
-          "id": "c84a78b8-714b-41d0-a1ac-9c931dc20055"
-        },
-        {
-          "name": "NOVO SERVIÇO ",
-          "cost": "100",
-          "description": "SERVIÇO NOVO",
-          "id": "2917d21b-2638-48e6-80b6-4ba68c19bfc9"
-        }
-      ],
-      "id": 3
+      "cost": 0,
+      "services": [],
+      "id": 1
     }
   ],
   "categories": [
