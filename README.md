@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Projeto realizado para estudos em React. Consiste em uma plataforma para criação, edição e gerenciamento de projetos.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/83362086/170780396-bd3ac37f-53f1-4249-99de-d7f31309c96e.PNG" width="700px" />
+ </div>    
+
 ### 💻 Para executar o projeto:
 
 ```
